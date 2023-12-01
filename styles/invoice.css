@@ -1,0 +1,21 @@
+.inv{
+    border: solid 1px #333;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.btnn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.b-bt{
+    border-radius: 8px;
+    width: 180px;
+    height: 40px;
+    color: #fff;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
